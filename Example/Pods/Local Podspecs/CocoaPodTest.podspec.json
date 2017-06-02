@@ -1,0 +1,22 @@
+{
+  "name": "CocoaPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of CocoaPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/blake@blakebarrett.net/CocoaPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "blake@blakebarrett.net": "bbarrett1@pandora.com"
+  },
+  "source": {
+    "git": "https://github.com/blake@blakebarrett.net/CocoaPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoaPodTest/Classes/**/*"
+}
