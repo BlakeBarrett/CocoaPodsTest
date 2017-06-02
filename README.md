@@ -22,7 +22,7 @@ pod "CocoaPodTest"
 
 ## Author
 
-blake@blakebarrett.net, bbarrett1@pandora.com
+Blake Barrett, bbarrett1@pandora.com
 
 ## License
 
